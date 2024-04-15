@@ -3,7 +3,7 @@
 # Screenshots: 
 
 ## Home Page with search bar
-<img width="960" alt="homePage" src="https://github.com/shrikant-kushwah/applyIn-assignment/assets/96473205/67974023-aa25-4852-bbae-27f74cc4b8d7">
+
 
 
 
