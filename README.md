@@ -8,7 +8,7 @@
 
 
 ## Search bar suggestions
-<img width="960" alt="search-suggestions" src="https://github.com/shrikant-kushwah/applyIn-assignment/assets/96473205/9f4fa4f5-7eda-4343-98c3-7fe0659748db">
+
 
 
 ## Live Link [live demo](https://stamurai-blond.vercel.app/)
