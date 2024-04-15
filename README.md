@@ -3,6 +3,7 @@
 # Screenshots: 
 
 ## Home Page with search bar
+<img width="960" alt="home-Page" src="https://github.com/shrikant-kushwah/Stamurai/assets/96473205/59c90806-7034-488c-b650-e3aaa3ed7d47">
 
 
 
